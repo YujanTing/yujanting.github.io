@@ -20,7 +20,7 @@ Honors
 ======
 * MCM Meritorious Winner (2021)
 * Honors Program Student (2021)
-* Honor List (2018-2020z)
+* Honor List (2018-2020)
 * Dean’s List (2019)
 
 
