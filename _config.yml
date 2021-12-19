@@ -80,11 +80,7 @@ analytics:
 
 # Site Author
 author:
-<<<<<<< HEAD
   name             : "Yu-Jan Ting"
-=======
-  name             : "Yujan Ting"
->>>>>>> acc5563b86a7f5ea6a0de9f62d8b61a2dddf9ceb
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Altanta, GA"
