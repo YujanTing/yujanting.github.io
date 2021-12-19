@@ -4,6 +4,8 @@ excerpt: "This honor thesis is inspired and built upon my advisor Professor Ruth
 collection: portfolio
 ---
 
+Download the PDF version is [here](http://yujanting.github.io/files/Variance_Reduction_Methods_for_High_Dimensional_Optimal_Control__Problem__Executive_Summary_.pdf)
+
 This honor thesis is inspired and built upon my advisor Professor Ruthotto’s recent study [1] which formulates the neural network framework for solving high-dimensional optimal control prob- lems. The study [1] investigates a series of multi-agent optimal control problems with state-space dimensions ranging from 4 to 150. The study uses a grid-free numerical approach of parameter- izing the value function with a neural network and a hybrid system of the Pontryagin Maximum Principle (PMP) and Hamilton-Jacobi-Bellman (HJB) methods, effectively mitigating the CoD for high dimensional OC problems. Due to the high dimensionality nature of this approach, an effective optimizer that is both computationally and memory efficient is needed to facilitate the demanding training process for high-dimensional OC problems. The optimization problem in this study is solved by the ADAM algorithm. While this algorithm is computationally efficient, it re- quires many samples to converge. This honor thesis proposes an alternative optimization strategy for training the same neural networks on high-dimensional optimal control problems, allowing for more sampling efficiency and a similar convergence rate as the previous method. The introduced new method is the streaming stochastic variance-reduced gradient method [2], which is a vari- ance reduced stochastic optimization method suitable for solving the multi-agent optimal control problems with an infinite state-space set.
 
 
