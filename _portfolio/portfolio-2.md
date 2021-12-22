@@ -20,6 +20,6 @@ Remark: To avoid copyright issues, we draw all the graphs on our own.
 
 Keywords: Spread of Hornets; Spread of Hornets Forecast Model; Word Embedding Classification Model; Deep Learning Classification model; Classification
 
-Equally contributed and credited to Yujan Ting, Caixin Tong. 
+Equally contributed and credited to Zeman Li, Caixin Tong. 
 
 ![Our hand-drawing Image of Wasp](http://lizeman.github.io/images/wasp.png)
