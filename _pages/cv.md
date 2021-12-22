@@ -59,6 +59,12 @@ Research Experience
 Project Experience
 =====
 * Mobile App Development Event Finder
+  * Worked in a team of 7 to design a social application for foreigners and immigrants to collect and share information about cultural events
+  * Used SwiftUI and Xcode to implement frontend pages, including the home page, profile page, post-event page, change preference page, search & filter functionalities, etc.
+  * Set up the Django backend framework, designed Event & User models, and implemented the restful APIs with API filters
+  * Deployed the backend using Nginx and Gunicorn on VPS, integrated the backend and frontend through restful APIs, and released a completely functional iOS app to Testflight in the Apple Store 
+
+* Predicting Cryptocurrency Prices Using Machine Learning
   * Combined LSTM, CNN, and random-forest as ensemble models to predict cryptocurrency prices at the minute level and compare their performances
   * Applied sliding window algorithm to time-series data and performed feature scaling and feature expansion, including rolling window features, return value, lags, etc.
   * Performed holdout-validation to select the best hybrid model, and the results showed that CNN-LSTM produced the most stable predictions, outperforming the baseline model LSTM by 40%
